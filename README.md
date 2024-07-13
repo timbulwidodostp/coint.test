@@ -1,6 +1,8 @@
 # coint.test
 Engle-Granger Cointegration Test Use coint.test (aTSA) With (In) R Software
 
+https://www.youtube.com/watch?v=mK1yoBLaV80
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
